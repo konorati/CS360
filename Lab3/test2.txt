@@ -1,0 +1,12 @@
+total 2248
+-rw-r--r-- 1 kristin kristin    3005 Feb 19 16:21 \
+-rwxr-xr-x 1 kristin kristin   12655 Feb 20 17:56 a.out
+-rw-r--r-- 1 kristin kristin    6586 Feb 19 22:20 Lab3.c
+-rw-r--r-- 1 kristin kristin       0 Feb 10 13:49 Lab3.c~
+-rw-r--r-- 1 kristin kristin     793 Feb 19 22:22 Lab3.h
+-rw-r--r-- 1 kristin kristin       0 Feb 10 13:49 Lab3.h~
+-rw-r--r-- 1 kristin kristin 2254640 Feb 20 17:56 Lab3.h.gch
+-rw-r--r-- 1 kristin kristin     386 Feb 19 22:22 Lab3main.c
+-rw-r--r-- 1 kristin kristin     119 Feb 10 13:52 Lab3main.c~
+-rw-r--r-- 1 kristin kristin       0 Feb 20 18:00 test2.txt
+-rw-r--r-- 1 kristin kristin     130 Feb 19 22:21 test.txt

@@ -1,0 +1,14 @@
+/* Kristin Onorati
+ * 10874126
+ * CPTS 360 Lab 3
+ * Group 1 Seq 3
+ */
+
+#include "Lab3.h"
+
+int main ()
+{
+
+
+	return 0;
+}

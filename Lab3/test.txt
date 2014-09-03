@@ -1,0 +1,15 @@
+\
+a.out
+Lab3.c
+Lab3.c~
+Lab3.h
+Lab3.h~
+Lab3.h.gch
+Lab3main.c
+Lab3main.c~
+test.txt
+Lab3.c
+Lab3.c~
+Lab3.h.gch
+Lab3main.c
+Lab3main.c~
